@@ -8,8 +8,14 @@
 
 ## Problem 1
 
-compute the trajectory for ballistic motion in the following metric
+Compute the trajectory for ballistic motion in the Rindler metric.
+
+```math
+ds^2 = - (ax)^2 dt^2 + dx^2
+```
 
 ## Problem 2
 
-compute the proper time it will take an observer to reach the singularity in a Schwarzschild Black Hole starting from rest at an initial radial distance.
+Compare the orbital energy of a point particile in a circular orbits for Newtonian gravity and the Schwarzschild metric.
+Which has a larger rate of change with the orbital radius?
+How would this impact hte evolution of a compact binary coalescence?
