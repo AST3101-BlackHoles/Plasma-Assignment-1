@@ -2,7 +2,7 @@
 
   * 25% of final grade
   * assigned 27 Oct 2023
-  * due 3 Nov 2023
+  * due 8 Nov 2023
 
 ---
 
